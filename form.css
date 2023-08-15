@@ -1,0 +1,7 @@
+label{
+    display: block;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
