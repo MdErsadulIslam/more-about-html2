@@ -1,7 +1,9 @@
+/* *{text-align: center;} */
+
 label {
   display: block;
   margin-bottom: 5px;
-  width: 400px;
+  width: 500px;;
 }
 .flex {
   display: flex;
